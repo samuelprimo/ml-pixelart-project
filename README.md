@@ -1,7 +1,7 @@
 #  My Pixel Art Project (from Kaggle) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This is a project originally developed on Kaggle with the goal of **[YOUR GOAL HERE, e.g., "to create pixel art using Python" or "to train a model for generating sprites"]**.
+This project was developed as a final assignment for a Master's degree in Machine Learning. The primary goal is to **explore and implement deep generative models (such as GANs or VAEs) for the automatic generation of original pixel art sprites**.
 
 ##  Final Result 👾
 
